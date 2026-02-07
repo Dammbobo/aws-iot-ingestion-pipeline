@@ -1,0 +1,10 @@
+Shop Floor / Edge Device
+        |
+        v
+      Amazon S3
+        |
+        v
+   AWS Lambda (Python)
+        |
+        v
+ Logging / Processing / Future ECS Services
